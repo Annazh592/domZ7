@@ -1,0 +1,9 @@
+.navbar li{
+  display: inline;
+  margin-right: 5px;
+  border: 1px solid green;
+  padding: 5px;
+}
+.main{
+  font-size: 40px;
+}
